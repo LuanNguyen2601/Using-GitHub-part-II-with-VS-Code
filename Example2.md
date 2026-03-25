@@ -16,3 +16,4 @@
 0) if you don't want to type like that anymore whenever you want to push, type once git push -u origin, then just type git push -u
 
 # don't forget to go Source Control to check, you have to go there to explore ways to make changes and send them to GitHub
+___________________________
