@@ -17,3 +17,5 @@
 
 # don't forget to go Source Control to check, you have to go there to explore ways to make changes and send them to GitHub
 ___________________________
+
+# One more takeaway: if you want to know do your changes commit to GitHub, go to Source Control and watch the change. You have to type git commit -m "<message>" so that it would show messages
